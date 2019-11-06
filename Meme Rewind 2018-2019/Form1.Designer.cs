@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.outputMain = new System.Windows.Forms.Label();
             this.buttYell = new System.Windows.Forms.Label();
             this.buttRed = new System.Windows.Forms.Label();
@@ -101,8 +102,9 @@
             this.Controls.Add(this.buttRed);
             this.Controls.Add(this.buttYell);
             this.Controls.Add(this.outputMain);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Meme Rewind";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyDown);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBoxMain)).EndInit();
