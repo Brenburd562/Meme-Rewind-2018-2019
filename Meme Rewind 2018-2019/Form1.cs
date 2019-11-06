@@ -28,7 +28,7 @@ namespace Meme_Rewind_2018_2019
         private void Form1_Load(object sender, EventArgs e)
         {
             //display initial message and options
-            outputMain.Text = "you are lost in a forest, north or south?";
+            outputMain.Text = "You suddenly awake on a sidewalk in a suburban neighborhood where you spot a man dressed in all white";
             buttBlue.Text = "north";
             buttRed.Text = "south";
             buttYell.Text = "";     
