@@ -112,10 +112,67 @@
     <None Include="Resources\deway.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\do-you-know-the-way.mp3" />
+    <None Include="Resources\do-you-know-the-way.wav" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\do-you-know-the-way.wav" />
+    <None Include="Resources\boom.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\underworld.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\toriel.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\joe.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aligator.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mouth.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\planedog.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\boys.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hall.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pie.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\desert.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rice.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gir.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doom.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wizard.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ded.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\endgame.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stomp.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cookie.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\352.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
